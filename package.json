@@ -1,0 +1,28 @@
+{
+  "name": "pg-monitor_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RepurposedLabMonkey/pg-monitor_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RepurposedLabMonkey/pg-monitor_demo/issues"
+  },
+  "homepage": "https://github.com/RepurposedLabMonkey/pg-monitor_demo#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "pg-promise-demo": "^0.8.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
